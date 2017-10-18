@@ -1,0 +1,591 @@
+2
+[
+	[
+		{
+			"_id" : "Lb9860f06-f0e9-4711-8975-df5f2dfc6777",
+			"leadSource" : "label_cn",
+			"leadType" : "label_cn",
+			"channel" : "WALK_IN",
+			"currentChannel" : "WALK_IN",
+			"role" : "purchaser",
+			"grade" : "D",
+			"ownerSalesConsultantId" : "D8LIJIA7",
+			"createdBy" : "otr",
+			"createdTime" : 1507596983088,
+			"updatedTime" : 1507596983088,
+			"activities" : [
+				{
+					"_id" : "Aa21e3a42-2278-4249-9467-668d2d91cc25",
+					"executedUserId" : 5700,
+					"activityType" : "LEAD_CREATION",
+					"description" : "柳州市华星行汽车销售服务有限公司",
+					"createdTime" : 1507596983095,
+					"updatedTime" : 1507596983095,
+					"showroomId" : "XY03662858",
+					"_class" : "com.daimler.otr.entity.activities.CreationActivity"
+				},
+				{
+					"_id" : "Ad4abd3f1-3428-41c3-9af6-99fcbfbffea9",
+					"assigneeName" : "唐昌林",
+					"assignTo" : "D8TACHA1",
+					"executedUser" : "D8TACHA1",
+					"activityType" : "ASSIGN_TO_SC",
+					"createdTime" : 1507596983117,
+					"updatedTime" : 1507596983117,
+					"createdBy" : "otr",
+					"updatedBy" : "otr",
+					"_class" : "com.daimler.otr.entity.activities.AssignSCActivity"
+				}
+			],
+			"tags" : [ ],
+			"vehicleDrivers" : [ ],
+			"systemOwner" : "OTR",
+			"status" : "LEAD",
+			"interestedVehicles" : [
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "B-Class",
+						"descriptionZH" : "B级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "B 200 Style",
+						"descriptionZH" : "B 200 时尚型"
+					}
+				},
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "B 300 Style",
+						"descriptionZH" : "B 300 时尚型"
+					}
+				}
+			]
+		},
+		{
+			"_id" : "Lb9860f06-f0e9-4711-8975-df5f2dfc6776",
+			"leadSource" : "label_cn",
+			"leadType" : "label_cn",
+			"channel" : "WALK_IN",
+			"currentChannel" : "WALK_IN",
+			"role" : "purchaser",
+			"grade" : "D",
+			"ownerSalesConsultantId" : "D8LIJIA7",
+			"createdBy" : "otr",
+			"createdTime" : 1507596983088,
+			"updatedTime" : 1507596983088,
+			"activities" : [
+				{
+					"_id" : "Aa21e3a42-2278-4249-9467-668d2d91cc25",
+					"executedUserId" : 5700,
+					"activityType" : "LEAD_CREATION",
+					"description" : "柳州市华星行汽车销售服务有限公司",
+					"createdTime" : 1507596983095,
+					"updatedTime" : 1507596983095,
+					"showroomId" : "XY03662858",
+					"_class" : "com.daimler.otr.entity.activities.CreationActivity"
+				},
+				{
+					"_id" : "Ad4abd3f1-3428-41c3-9af6-99fcbfbffea9",
+					"assigneeName" : "唐昌林",
+					"assignTo" : "D8TACHA1",
+					"executedUser" : "D8TACHA1",
+					"activityType" : "ASSIGN_TO_SC",
+					"createdTime" : 1507596983117,
+					"updatedTime" : 1507596983117,
+					"createdBy" : "otr",
+					"updatedBy" : "otr",
+					"_class" : "com.daimler.otr.entity.activities.AssignSCActivity"
+				}
+			],
+			"tags" : [ ],
+			"vehicleDrivers" : [ ],
+			"systemOwner" : "OTR",
+			"status" : "LEAD",
+			"interestedVehicles" : [
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "B-Class",
+						"descriptionZH" : "B级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "B 200 Style",
+						"descriptionZH" : "B 200 时尚型"
+					}
+				},
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "B 300 Style",
+						"descriptionZH" : "B 300 时尚型"
+					}
+				}
+			]
+		}
+	],
+	[
+		{
+			"_id" : "Lc19b281e-dfdb-4e8b-a48c-0b819697d7cc",
+			"leadSource" : "label_cn",
+			"leadType" : "label_cn",
+			"channel" : "WALK_IN",
+			"currentChannel" : "DORMANT",
+			"role" : "purchaser",
+			"grade" : "D",
+			"createdBy" : "otr",
+			"createdTime" : NumberLong("1502421866018"),
+			"updatedTime" : NumberLong("1502422211896"),
+			"activities" : [
+				{
+					"_id" : "A04baed95-0212-42f2-a2a6-997e2b448700",
+					"activityType" : "LEAD_CREATION",
+					"description" : "利星行（北京）汽车有限公司",
+					"createdTime" : NumberLong("1502421865965"),
+					"updatedTime" : NumberLong("1502421865965"),
+					"showroomId" : "XY03660166"
+				},
+				{
+					"_id" : "A2c7d4db0-32f3-408e-b487-c4154b1a5976",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : true,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502421858329"),
+					"leaveTime" : NumberLong("1502422200000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502421866417"),
+					"updatedTime" : NumberLong("1502421866417"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A283c10b8-7b25-4d1a-be85-4a1dbcb8202d",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2212),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502422202234"),
+					"updatedTime" : NumberLong("1502422202234"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "Aeefdc9bf-42b5-4b99-adfe-cebf66385b87",
+					"lostSalesReason" : "重复的lead",
+					"activityType" : "LOST_SALES",
+					"createdTime" : NumberLong("1502422211827"),
+					"updatedTime" : NumberLong("1502422211827"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.LostSalesActivity"
+				},
+				{
+					"_id" : "A067bdcfa-f0cf-4645-ac38-518aa17037f5",
+					"activityType" : "LEAD_CLOSURE",
+					"createdTime" : NumberLong("1502422211896"),
+					"updatedTime" : NumberLong("1502422211896"),
+					"createdBy" : "otr",
+					"updatedBy" : "otr"
+				}
+			],
+			"tags" : [ ],
+			"vehicleDrivers" : [ ],
+			"systemOwner" : "SFDC",
+			"status" : "UNSUCCESSFUL",
+			"interestedVehicles" : [
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "AMG",
+						"descriptionZH" : "AMG"
+					},
+					"variant" : {
+						"descriptionEN" : "Mercedes-AMG C 63",
+						"descriptionZH" : "梅赛德斯-AMG C 63"
+					}
+				},
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "smart forfour",
+						"descriptionZH" : "smart forfour"
+					},
+					"brand" : {
+						"descriptionEN" : "smart",
+						"descriptionZH" : "smart"
+					},
+					"variant" : {
+						"descriptionEN" : "smart forfour 52kW Passion",
+						"descriptionZH" : "smart forfour 52千瓦激情版"
+					}
+				}
+			]
+		},
+		{
+			"_id" : "L93988d9f-5e90-4809-ae5a-9769df726f3a",
+			"leadSource" : "label_cn",
+			"leadType" : "label_cn",
+			"channel" : "WALK_IN",
+			"currentChannel" : "DORMANT",
+			"role" : "purchaser",
+			"grade" : "D",
+			"comments" : "",
+			"createdBy" : "otr",
+			"createdTime" : NumberLong("1502422230301"),
+			"updatedTime" : NumberLong("1502431219802"),
+			"activities" : [
+				{
+					"_id" : "A3d3ee6cf-b80c-4808-9bf0-385992756821",
+					"activityType" : "LEAD_CREATION",
+					"description" : "利星行（北京）汽车有限公司",
+					"createdTime" : NumberLong("1502422230252"),
+					"updatedTime" : NumberLong("1502422230252"),
+					"showroomId" : "XY03660166"
+				},
+				{
+					"_id" : "A2f66bfb0-16e3-4c08-8302-6c7cdfe7e889",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : true,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502422222208"),
+					"leaveTime" : NumberLong("1502423520000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502422230547"),
+					"updatedTime" : NumberLong("1502422230547"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A376ce81d-3e6f-4238-91d3-5035ef2457a2",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2214),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502423558658"),
+					"updatedTime" : NumberLong("1502423558658"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "A7c27a61d-a334-4fde-bf97-7ceb2c665c43",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502422534127"),
+					"leaveTime" : NumberLong("1502423520000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502422541407"),
+					"updatedTime" : NumberLong("1502422541407"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "Ae0cde306-9390-424a-a80a-040336a872dc",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502430690708"),
+					"leaveTime" : NumberLong("1502430840000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502430695403"),
+					"updatedTime" : NumberLong("1502430695403"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "Ab2fead49-aaeb-41c1-9f42-a6073fd4ef82",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2216),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502430867044"),
+					"updatedTime" : NumberLong("1502430867044"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "A0e635bb0-ccbe-4865-8664-0393785b1062",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502430869963"),
+					"leaveTime" : NumberLong("1502430960000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502430874077"),
+					"updatedTime" : NumberLong("1502430874077"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A6ce84157-d1f0-47a6-8d85-cedc4b699ba0",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2217),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502430968285"),
+					"updatedTime" : NumberLong("1502430968285"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "A095d2723-6769-400e-93ec-5a5b35bf1ccf",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502430972671"),
+					"leaveTime" : NumberLong("1502431080000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502430979118"),
+					"updatedTime" : NumberLong("1502430979118"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "Aa5d6066a-b475-4585-9895-81a7cd7e245a",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2218),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502431081986"),
+					"updatedTime" : NumberLong("1502431081986"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "A68861224-4048-4ea6-985d-4df8a3fabc0f",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502431084427"),
+					"leaveTime" : NumberLong("1502431200000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502431088153"),
+					"updatedTime" : NumberLong("1502431088153"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A3be7aa74-b8bf-4106-9802-245e59376dbc",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2219),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502431210123"),
+					"updatedTime" : NumberLong("1502431210123"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "Ab8628101-91ab-470c-adb6-370e882ba11d",
+					"lostSalesReason" : "重复的lead",
+					"activityType" : "LOST_SALES",
+					"createdTime" : NumberLong("1502431219732"),
+					"updatedTime" : NumberLong("1502431219732"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.LostSalesActivity"
+				},
+				{
+					"_id" : "Acc338d28-a711-4033-8502-016b853c0605",
+					"activityType" : "LEAD_CLOSURE",
+					"createdTime" : NumberLong("1502431219802"),
+					"updatedTime" : NumberLong("1502431219802"),
+					"createdBy" : "otr",
+					"updatedBy" : "otr"
+				}
+			],
+			"tags" : [ ],
+			"vehicleDrivers" : [ ],
+			"systemOwner" : "SFDC",
+			"status" : "UNSUCCESSFUL",
+			"interestedVehicles" : [
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "C 300 L Sport Sedan",
+						"descriptionZH" : "C 300 L 运动轿车"
+					}
+				},
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "smart forfour",
+						"descriptionZH" : "smart forfour"
+					},
+					"brand" : {
+						"descriptionEN" : "smart",
+						"descriptionZH" : "smart"
+					},
+					"variant" : {
+						"descriptionEN" : "smart forfour 66KW Prime",
+						"descriptionZH" : "smart forfour 66千瓦先锋版"
+					}
+				}
+			]
+		},
+		{
+			"_id" : "Le4d8a054-a405-421e-8a67-0e03ba3cf7b6",
+			"leadSource" : "label_cn",
+			"leadType" : "label_cn",
+			"channel" : "WALK_IN",
+			"currentChannel" : "DORMANT",
+			"role" : "purchaser",
+			"grade" : "D",
+			"comments" : "",
+			"ownerSalesConsultantId" : "D8XUYA10",
+			"createdBy" : "otr",
+			"createdTime" : NumberLong("1502431234657"),
+			"updatedTime" : NumberLong("1502680741903"),
+			"activities" : [
+				{
+					"_id" : "A7ce28247-dec9-4082-b421-af3a07d8dad2",
+					"activityType" : "LEAD_CREATION",
+					"description" : "利星行（北京）汽车有限公司",
+					"createdTime" : NumberLong("1502431234619"),
+					"updatedTime" : NumberLong("1502431234619"),
+					"showroomId" : "XY03660166"
+				},
+				{
+					"_id" : "Aa51a407a-db0e-4aa2-812e-e7e85465df87",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : true,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502431231141"),
+					"leaveTime" : NumberLong("1502433120000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502431234919"),
+					"updatedTime" : NumberLong("1502431234919"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A1b70e7be-8ab3-4fa8-8722-6428d5bfcdf6",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2220),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502433145970"),
+					"updatedTime" : NumberLong("1502433145970"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "Afe8c0184-179d-427e-aedb-a5204d546a3e",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502433150186"),
+					"leaveTime" : NumberLong("1502467140000"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502433154346"),
+					"updatedTime" : NumberLong("1502433154346"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				},
+				{
+					"_id" : "A53e308d8-9a9a-4467-9010-d9a239702861",
+					"relatedScId" : "D8XUYA10",
+					"isDone" : false,
+					"taskId" : NumberLong(2221),
+					"activityType" : "FOLLOW_UP",
+					"description" : "客户离店3天跟进",
+					"createdTime" : NumberLong("1502680689207"),
+					"updatedTime" : NumberLong("1502680689207"),
+					"_class" : "com.daimler.otr.entity.activities.TaskActivity"
+				},
+				{
+					"_id" : "Ac5a8390e-402c-4eb9-9db1-0320c13bb52b",
+					"isAppointed" : false,
+					"relatedScId" : "D8XUYA10",
+					"isFirstVisit" : false,
+					"purpose" : "看车比价",
+					"arrivalTime" : NumberLong("1502433487877"),
+					"showroomName" : "利星行（北京）汽车有限公司",
+					"activityType" : "VISIT",
+					"createdTime" : NumberLong("1502433493230"),
+					"updatedTime" : NumberLong("1502433493230"),
+					"showroomId" : "XY03660166",
+					"_class" : "com.daimler.otr.entity.activities.VisitActivity"
+				}
+			],
+			"tags" : [ ],
+			"vehicleDrivers" : [ ],
+			"systemOwner" : "OTR",
+			"status" : "LEAD",
+			"interestedVehicles" : [
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "AMG",
+						"descriptionZH" : "AMG"
+					},
+					"variant" : {
+						"descriptionEN" : "Mercedes-AMG C 63",
+						"descriptionZH" : "梅赛德斯-AMG C 63"
+					}
+				},
+				{
+					"vehicleClass" : {
+						"descriptionEN" : "C-Class",
+						"descriptionZH" : "C级"
+					},
+					"brand" : {
+						"descriptionEN" : "Mercedes-Benz Passenger Cars",
+						"descriptionZH" : "梅赛德斯-奔驰乘用车"
+					},
+					"variant" : {
+						"descriptionEN" : "C 200 Coupe",
+						"descriptionZH" : "梅赛德斯-奔驰 C 200 轿跑车"
+					}
+				}
+			]
+		}
+	]
+]
